@@ -1,4 +1,4 @@
-import React, { Children } from "react";
+import { children } from "react";
 import { Navigate } from "react-router-dom";
 
 const PrivateRoute = ({ children }) => {
